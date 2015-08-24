@@ -6,7 +6,7 @@ An example app that thoroughly demonstrates how to use the Moltin iOS eCommerce 
 # Getting started
 This demo app uses [CocoaPods](https://guides.cocoapods.org/using/getting-started.html#getting-started) to manage dependencies. 
 - Clone the project repository
-- Run `pod install` in the project's directory
+- Run `pod install` in the `MoltinSDK iOS Example` directory
 - Open the .xcworkspace file
 - You're all set.
 
